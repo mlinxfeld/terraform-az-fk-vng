@@ -64,7 +64,7 @@ terraform-az-fk-vng/
 
 ```hcl
 module "vng" {
-  source = "git::https://github.com/mlinxfeld/terraform-az-fk-vng.git?ref=v0.1.0"
+  source = "git::https://github.com/mlinxfeld/terraform-az-fk-vng.git?ref=v0.2.0"
 
   name                = "fk-vng-demo"
   location            = "westeurope"
