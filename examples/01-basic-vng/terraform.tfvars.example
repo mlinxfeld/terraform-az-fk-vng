@@ -1,0 +1,7 @@
+resource_group_name    = "rg-fk-vng-demo"
+location               = "westeurope"
+vnet_name              = "fk-vnet-vng-demo"
+vnet_address_space     = ["10.40.0.0/16"]
+gateway_subnet_prefixes = ["10.40.255.0/27"]
+gateway_name           = "fk-vng-demo"
+public_ip_name         = "fk-vng-pip"
