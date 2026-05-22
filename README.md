@@ -61,7 +61,7 @@ All examples are runnable and demonstrate how gateway-based connectivity compose
 
 ```hcl
 module "vng" {
-  source = "git::https://github.com/foggykitchen/terraform-az-fk-vng.git?ref=v0.2.1"
+  source = "git::https://github.com/mlinxfeld/terraform-az-fk-vng.git?ref=v0.2.1"
 
   name                = "fk-vng-demo"
   location            = "westeurope"
