@@ -63,7 +63,7 @@ These examples intentionally avoid:
 - [FoggyKitchen Azure NAT Gateway Module (terraform-az-fk-natgw)](https://github.com/foggykitchen/terraform-az-fk-natgw)
 - [FoggyKitchen Azure Private Endpoint Module (terraform-az-fk-private-endpoint)](https://github.com/foggykitchen/terraform-az-fk-private-endpoint)
 - [FoggyKitchen Azure Private DNS Module (terraform-az-fk-private-dns)](https://github.com/foggykitchen/terraform-az-fk-private-dns)
-- [FoggyKitchen Azure VNet Peering Module (terraform-az-fk-vnet-peering)](https://github.com/mlinxfeld/terraform-az-fk-vnet-peering)
+- [FoggyKitchen Azure VNet Peering Module (terraform-az-fk-vnet-peering)](https://github.com/foggykitchen/terraform-az-fk-vnet-peering)
 
 ---
 
